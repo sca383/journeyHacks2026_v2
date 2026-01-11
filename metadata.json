@@ -1,0 +1,8 @@
+{
+  "name": "SilverCare",
+  "description": "A compassionate healthcare platform connecting elderly users with professionals and an AI health assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
